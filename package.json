@@ -1,0 +1,8 @@
+{
+  "name": "js-lesson07-delete-duplicate-items",
+  "version": "1.0.0",
+  "description": "Delete duplicate items in list and generate new list.",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
